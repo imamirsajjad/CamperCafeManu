@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/preview.png" alt="Camper Cafe Menu Preview" width="600">
+  <img src="/images/preview.png" alt="Camper Cafe Menu Preview" width="600">
 </p>
 
 # ☕ Camper Cafe Menu 🍰
