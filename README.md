@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/preview.png" alt="Camper Cafe Menu Preview" width="600">
+  <img src="/images/preview.PNG" alt="Camper Cafe Menu Preview" width="600">
 </p>
 
 # ☕ Camper Cafe Menu 🍰
@@ -34,10 +34,10 @@ It is responsive, so it looks just as good on your phone as it does on your lapt
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/preview.png" alt="Camper Cafe Menu Preview Screenshot" width="500">
+  <img src="images/preview.PNG" alt="Camper Cafe Menu Preview Screenshot" width="500">
 </p>
 
-_(Replace `images/preview.png` with the actual path of your screenshot.)_
+_(Replace `images/preview.PNG` with the actual path of your screenshot.)_
 
 ---
 
